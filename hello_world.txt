@@ -1,0 +1,3 @@
+Hello this is my first text into my TOP repo.
+Lets see how this goes. Future me wait till you see this. lolx.
+I am using nvim btw.
